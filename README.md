@@ -7,7 +7,7 @@
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance)
 
-[Live Dashboard link](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance)
+[Live Dashboard link](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance](https://app.powerbi.com/view?r=eyJrIjoiZGE2MzM0ZjktNzk1OC00OTA2LWI3Y2YtZDU5ZjdhY2IzZDdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 ## Tech Stack
 
@@ -195,5 +195,5 @@ https://github.com/nagendravallepu/Business-Insight-360/assets/145926047/3e5ae2d
 ## Executive View
 https://github.com/nagendravallepu/Business-Insight-360/assets/145926047/fb37dd3f-c80a-45ff-802d-14b8fb0b1d15
 
-##Project Outcome
+## Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
