@@ -160,3 +160,40 @@ Fact table : It will have the data about the transactions
 
 ![Data model](https://github.com/nagendravallepu/Business-Insight-360/assets/145926047/fc475fe9-0921-4819-b707-0c76526b8784)
 
+### Dashboard designing
+
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+## Home View
+
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Support
+
+https://github.com/nagendravallepu/Business-Insight-360/assets/145926047/177f2029-3fc7-4534-b82b-782bdfb65386
+
+## Overall Report
+https://github.com/nagendravallepu/Business-Insight-360/assets/145926047/db8a6917-7b99-4120-92f0-040573cd21ba
+
+## Finance View
+https://github.com/nagendravallepu/Business-Insight-360/assets/145926047/4f99a5bf-45b9-42cb-a253-5dc82e034624
+
+## Sales View
+https://github.com/nagendravallepu/Business-Insight-360/assets/145926047/1e10bde3-3dce-4cfb-a436-4287703df5b9
+
+## Marketing View
+https://github.com/nagendravallepu/Business-Insight-360/assets/145926047/b2657784-d552-4b8c-b428-96a1fb8ff909
+
+## Supply Chain View
+https://github.com/nagendravallepu/Business-Insight-360/assets/145926047/3e5ae2d1-bb9c-44d8-8e79-7495e9b8bd6c
+
+## Executive View
+https://github.com/nagendravallepu/Business-Insight-360/assets/145926047/fb37dd3f-c80a-45ff-802d-14b8fb0b1d15
+
+##Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
